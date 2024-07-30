@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+- 👋 Hi, I’m @Ayush-25
+- 👀 I’m interested in Coding
+- 🌱 I’m currently pursuing BSc in Computer From Mumbai University
+- 📫 Contact me :- ayushsinghfeb2502@gmail.com
 <!--
 **Ayush-25/Ayush-25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
